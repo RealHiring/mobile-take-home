@@ -16,7 +16,7 @@ To submit your exercise, please create a repository in Github and email the link
 
 Create an application that allows people to scroll through a list of audio clips, each associated with an image. 
 
-- The list should load at least 16 audio clips. You can use the clips on [SoundHelix](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3).
+- The list should load at least 16 audio clips. You can use the clips on [SoundHelix](https://www.soundhelix.com/audio-examples).
 
 - You may use whatever images you would like for each audio clip.
 
